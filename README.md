@@ -9,3 +9,8 @@ https://github.com/openai/gym/blob/master/gym/envs/toy_text/blackjack.py
 - numpy (1.15.4)
 - gim   (0.10.9)
 - matplotlib (3.0.1)
+
+### Files:
+plot_utils.py (functions for data visualization)
+Blackjack.jpnb (jupyter notebook)
+report.pdf (pdf version of the jupyter notebook)
