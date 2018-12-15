@@ -1,7 +1,8 @@
 # AI for Blackjack
-Implementing some Monte Carlo algorithms (Reinforcement Learning) from scratch using numpy in Python 3.6 to teach an agent how to play Blackjack.
+In this repository I have implemented some Monte Carlo algorithms (Reinforcement Learning) from scratch in order to teach an agent how to play Blackjack.
+The agent will learn the best action to take (Hit or Stick) according to the actual configuration of the game.
 
-Informations of the environment can be found here:
+Informations about the environment can be found here:
 https://github.com/openai/gym/blob/master/gym/envs/toy_text/blackjack.py
 
 ### Requirements:
